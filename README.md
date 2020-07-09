@@ -1,8 +1,9 @@
 # SurveilPy
 Your friendly CLI to display metrics of your server with histograms, gauges and charts "on your terminal itself"!
 
-Here's the <a href="https://in.pycon.org/cfp/2020/proposals/surveilpy-writing-a-monitoring-library-to-display-metrics-of-a-remote-server-on-terminal-ui-from-scratch~bqJ7d/">Link</a>
-<br>
+### This is my proposal for PyCon 2020 :)
+
+### Here's the <a href="https://in.pycon.org/cfp/2020/proposals/surveilpy-writing-a-monitoring-library-to-display-metrics-of-a-remote-server-on-terminal-ui-from-scratch~bqJ7d/">Link</a>
 ### **Do upvote it if you find nice and I'll be ultra grateful :)**
 
 ---
